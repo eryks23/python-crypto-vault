@@ -3,7 +3,6 @@
 > Encrypt and decrypt sensitive strings locally from the terminal — no cloud, no logs, no leaks.
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
